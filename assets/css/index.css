@@ -1,0 +1,32 @@
+html{
+    background-image: url("https://media.baoquangninh.vn/upload/image/202301/medium/2048566_ddeacd7a4e1354301f19dfb8d83ad409.jpg");
+    background-size: 100%;
+    width: 100%;
+}
+.luckySpin{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+.box{
+    width: 450px;
+    height: 230px;
+    border: 1px solid black;
+    background-color: rgb(40, 56, 56);
+}
+.box img{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.spin{
+    width: 140px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: antiquewhite;
+    border-radius: 10%;
+    border: 1px solid black;
+}
